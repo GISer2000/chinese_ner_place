@@ -6,7 +6,7 @@
 - bert_ner.ipynb：基线模型
 - bert_crf_ner.ipynb：拟议模型
 - crf.py：条件随机场（Conditional Random Field），拟议模型需要用到
-- model/bert-base-chinese：需要自己下载[Bert](https://huggingface.co/google-bert/bert-base-chinese)模型，放到这个目录（没有的话自己创建）
+- model：需要自己下载[bert-base-chinese](https://huggingface.co/google-bert/bert-base-chinese)模型，放到这个目录（没有的话自己创建）
 
 ## 标注数据
 使用[MarkStudio](https://github.com/cuiwang/MarkStudio)进行实体标注。MarkStudio是一款功能丰富的数据标注工具，已支持`实体标注`、`文本分类`、`文本翻译`、`关系标注`、`对话标注`。
