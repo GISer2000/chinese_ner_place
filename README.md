@@ -25,7 +25,8 @@
   - CRF
  
 ## 结果
-数据集说明
+数据集说明：
+- 外交部门公开的新闻标题，这里是[示例](https://www.state.gov/translations/chinese/20241113-secretary-antony-j-blinken-remarks-to-the-press-chinese/)
 - 500条标注数据
 - 数据划分：train:val:test ——> 8:1:1
 
